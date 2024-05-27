@@ -13,7 +13,6 @@
 #include "shape.h"
 #include "circle.h"
 
-
 class line : public shape {
 public:
     line(int x1, int y1, int x2, int y2) : shape(x1, y1), m_x2(x2), m_y2(y2) {}

@@ -26,7 +26,6 @@ public:
             painter.setPen(QPen(Qt::black, 2));
         }
     }
-
     void select() {
         m_selected = true;
     }
