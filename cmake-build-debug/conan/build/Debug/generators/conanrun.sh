@@ -1,0 +1,1 @@
+. "/Users/murategenberdiev/CLionProjects/final/cmake-build-debug/conan/build/Debug/generators/conanrunenv-debug-armv8.sh"

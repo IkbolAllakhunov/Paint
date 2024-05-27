@@ -1,0 +1,1 @@
+. "/Users/murategenberdiev/CLionProjects/final/cmake-build-debug/conan/build/Debug/generators/deactivate_conanbuildenv-debug-armv8.sh"

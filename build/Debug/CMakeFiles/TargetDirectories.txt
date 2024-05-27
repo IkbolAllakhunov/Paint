@@ -1,0 +1,3 @@
+/Users/murategenberdiev/CLionProjects/final/build/Debug/CMakeFiles/final.dir
+/Users/murategenberdiev/CLionProjects/final/build/Debug/CMakeFiles/edit_cache.dir
+/Users/murategenberdiev/CLionProjects/final/build/Debug/CMakeFiles/rebuild_cache.dir

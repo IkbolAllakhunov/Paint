@@ -1,0 +1,11 @@
+# ninja log v5
+10	63	1716458041663161186	final_autogen/timestamp	e6e81a88bf64a3e1
+10	63	1716458041663161186	final_autogen/mocs_compilation.cpp	e6e81a88bf64a3e1
+7857	8116	1716458049708510607	final	3144cf6ee8dd8555
+1	141	7385335455265246	final_autogen/timestamp	ed0a1e7a51a37d18
+1	141	7385335455265246	final_autogen/mocs_compilation.cpp	ed0a1e7a51a37d18
+1	141	7385335455265246	C:/final/cmake-build-debug/final_autogen/timestamp	ed0a1e7a51a37d18
+1	141	7385335455265246	C:/final/cmake-build-debug/final_autogen/mocs_compilation.cpp	ed0a1e7a51a37d18
+143	217	7385335456026031	CMakeFiles/final.dir/final_autogen/mocs_compilation.cpp.obj	9e1e11e7fda4bb6a
+14	8940	7385335820473145	CMakeFiles/final.dir/main.cpp.obj	c5f7ca8b75e9bd52
+8947	9518	7385335826082904	final.exe	c920456b2c3000d7
